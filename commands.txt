@@ -1,1 +1,23 @@
 		// Commands 	///
+
+GenVirus
+
+apt update
+apt install git -y
+git clone git://github.com/Ign0r3dH4x0r/GenVirus.git
+cd GenVirus
+bash GenVirus.sh
+
+
+NEXTGenTermux
+
+$ git clone git://github.com/Ign0r3dH4x0r/NextGenTermux.git
+$ cd NextGenTermux
+$ bash NextGenTermux.sh
+
+Bash-Speed-Test
+
+$ git clone git://github.com/Ign0r3dH4x0r/Bash-Speed-Test.git
+$ cd Bash-Speed-Test
+$ bash bst.sh
+
